@@ -1,0 +1,51 @@
+
+*{
+	margin-top: 0px;
+	padding: 0;
+	
+}
+.wrapper{
+	width: 1170px;
+	margin:auto;
+}
+	
+html{
+	font-size: 10px;  background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("j.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body{
+
+	height: 100vh;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-position:center center;
+	position:relative;
+}
+
+h2{
+	margin-top: 150px;
+	color: #fff;
+	font-size: 25px;
+	font-weight:700;
+	letter-spacing: 8px;
+	text-align: center;
+		font-family: Ink Free;
+}
+
+
+p{
+	font-size: 20px;
+	color:#fff;
+	line-height:5rem;
+	margin-bottom:5rem;
+	text-align: center;
+	font-family: Ink Free;
+	
+}
+
+	
+	
+	
